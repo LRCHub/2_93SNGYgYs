@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "base_track": "アンチサイクロン",
+  "base_artist": "稲葉曇",
+  "createdAt": "2026-04-03T10:40:55.433489Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アンチサイクロン",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/01_アンチサイクロン_稲葉曇.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アンチサイクロン",
+      "artist": "稲葉曇",
+      "has_synced": false,
+      "path": "select/pl_01_アンチサイクロン_稲葉曇.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "アンチサイクロン",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/localdb_01_アンチサイクロン_稲葉曇.lrc",
+      "repo_name": "v_QLsKpUH6g"
+    }
+  ]
+}
